@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body {
+  width: 600px;
+  margin: 20px;
+  font-family: cursive;
+  font-size: 3em;
+  color: red;
+  background-color: black;
+}
