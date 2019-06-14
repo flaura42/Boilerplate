@@ -1,3 +1,3 @@
-# Gulp / browserSync Boilerplate
+# Gulp / Browsersync Boilerplate
 
-#### _Simple starter boilerplate for apps using Gulp 4 and browserSync.
+#### _Simple starter boilerplate for apps using Gulp 4 and Browsersync._
