@@ -1,0 +1,21 @@
+{
+  "short_name": "",
+  "name": "",
+  "icons": [
+  {
+    "src": "",
+    "type": "image/jpg",
+    "sizes": "192x192"
+  },
+  {
+    "src": "",
+    "type": "image/jpg",
+    "sizes": "512x512"
+  }
+],
+  "start_url": "index.html",
+  "background_color": "",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": ""
+}
