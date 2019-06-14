@@ -1,7 +1,6 @@
 import gulp from 'gulp';
 import browserSync from 'browser-sync';
 import del from 'del';
-
 import sourcemaps from 'gulp-sourcemaps';
 
 // For processing JS
@@ -16,8 +15,6 @@ import cleanCSS from 'gulp-clean-css';
 import imagemin from 'gulp-imagemin';
 import imageminWebp from 'imagemin-webp';
 import imageminSvgo from 'imagemin-svgo';
-// import imageResize from 'gulp-image-resize';
-// import rename from 'gulp-rename';
 
 const server = browserSync.create();
 
